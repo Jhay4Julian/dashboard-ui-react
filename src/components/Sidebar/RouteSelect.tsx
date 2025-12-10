@@ -1,4 +1,4 @@
-import { FiBarChart2, FiDollarSign, FiHome, FiLink, FiPaperclip, FiSettings, FiShoppingCart, FiUsers } from "react-icons/fi";
+import { FiBarChart2, FiHome, FiPaperclip, FiSettings, FiShoppingCart } from "react-icons/fi";
 import { NavLink } from "react-router-dom";
 
 const RouteSelect = () => {
